@@ -3,7 +3,7 @@ Cognatehood as a continuum
 
 In this page you will find the relevant raw data (partially) the processed data of the work, in addition to the notebooks that process and analyze the data.
 
-**Data**
+****Data****
 1. Corpora:
 2. Character weights for the customized Levenstien function:
 3. Word embeddings:
